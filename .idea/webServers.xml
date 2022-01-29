@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="85e857d1-b6bf-4515-a10e-ec8cf60fc125" name="localhost" url="http://localhost/phpnetscape">
+        <fileTransfer mountedRoot="C:\xampp\htdocs\phpnetscape" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
